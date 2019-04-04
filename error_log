@@ -1,0 +1,39 @@
+[08-Nov-2017 18:00:52 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$role' (T_VARIABLE) in /home/homoclub/public_html/dev/application/views/booking/addbooking.php on line 1
+[08-Nov-2017 18:01:41 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$role' (T_VARIABLE) in /home/homoclub/public_html/dev/application/views/booking/addbooking.php on line 1
+[08-Nov-2017 18:02:26 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$role' (T_VARIABLE) in /home/homoclub/public_html/dev/application/views/booking/addbooking.php on line 1
+[08-Nov-2017 18:02:27 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$role' (T_VARIABLE) in /home/homoclub/public_html/dev/application/views/booking/addbooking.php on line 1
+[08-Nov-2017 18:02:33 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$role' (T_VARIABLE) in /home/homoclub/public_html/dev/application/views/booking/addbooking.php on line 1
+[08-Nov-2017 18:03:06 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/homoclub/public_html/dev/application/views/booking/addbooking.php on line 1
+[08-Nov-2017 18:04:02 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/homoclub/public_html/dev/application/views/booking/addbooking.php on line 1
+[08-Nov-2017 18:04:08 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/homoclub/public_html/dev/application/views/booking/addbooking.php on line 1
+[08-Nov-2017 18:04:25 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$role' (T_VARIABLE) in /home/homoclub/public_html/dev/application/views/booking/addbooking.php on line 1
+[08-Nov-2017 18:04:30 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$role' (T_VARIABLE) in /home/homoclub/public_html/dev/application/views/booking/addbooking.php on line 1
+[08-Nov-2017 18:04:32 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$role' (T_VARIABLE) in /home/homoclub/public_html/dev/application/views/booking/addbooking.php on line 1
+[08-Nov-2017 18:04:54 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$role' (T_VARIABLE) in /home/homoclub/public_html/dev/application/views/booking/addbooking.php on line 1
+[08-Nov-2017 18:04:55 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$role' (T_VARIABLE) in /home/homoclub/public_html/dev/application/views/booking/addbooking.php on line 1
+[08-Nov-2017 18:23:06 Asia/Kolkata] PHP Fatal error:  Call to a member function hashPassword() on null in /home/homoclub/public_html/dev/application/controllers/bo/Hotel.php on line 66
+[08-Nov-2017 19:02:10 Asia/Kolkata] PHP Fatal error:  Call to undefined method CI_Session::session_data() in /home/homoclub/public_html/dev/application/models/Manager_model.php on line 165
+[08-Nov-2017 19:02:47 Asia/Kolkata] PHP Fatal error:  Call to undefined method CI_Session::user_data() in /home/homoclub/public_html/dev/application/models/Manager_model.php on line 165
+[08-Nov-2017 19:29:27 Asia/Kolkata] PHP Fatal error:  Call to a member function hashPassword() on null in /home/homoclub/public_html/dev/application/controllers/bo/Clerk.php on line 50
+[08-Nov-2017 19:30:16 Asia/Kolkata] PHP Fatal error:  Call to a member function hashPassword() on null in /home/homoclub/public_html/dev/application/controllers/bo/Clerk.php on line 50
+[09-Nov-2017 14:18:49 Asia/Kolkata] PHP Fatal error:  Call to a member function ClientsList() on null in /home/homoclub/public_html/dev/application/controllers/bo/Clients.php on line 20
+[09-Nov-2017 15:08:38 Asia/Kolkata] PHP Fatal error:  Call to undefined method Clients_model::ClientsView() in /home/homoclub/public_html/dev/application/controllers/bo/Clients.php on line 29
+[09-Nov-2017 15:10:44 Asia/Kolkata] PHP Fatal error:  Call to undefined method Clients_model::ClientsView() in /home/homoclub/public_html/dev/application/controllers/bo/Clients.php on line 29
+[09-Nov-2017 15:13:52 Asia/Kolkata] PHP Fatal error:  Call to undefined method Clients_model::ClientsView() in /home/homoclub/public_html/dev/application/controllers/bo/Clients.php on line 29
+[09-Nov-2017 15:14:27 Asia/Kolkata] PHP Fatal error:  Call to undefined method Clients_model::ClientsView() in /home/homoclub/public_html/dev/application/controllers/bo/Clients.php on line 29
+[09-Nov-2017 16:08:44 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/homoclub/public_html/dev/application/views/clients/view-clients.php on line 360
+[09-Nov-2017 19:37:37 Asia/Kolkata] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::num_rows() in /home/homoclub/public_html/dev/application/models/Clients_model.php on line 104
+[10-Nov-2017 16:00:14 Asia/Kolkata] PHP Fatal error:  Call to undefined function Slug() in /home/homoclub/public_html/dev/application/models/Hotel_model.php on line 17
+[10-Nov-2017 16:01:02 Asia/Kolkata] PHP Fatal error:  Call to undefined function Slug() in /home/homoclub/public_html/dev/application/models/Hotel_model.php on line 17
+[10-Nov-2017 16:01:06 Asia/Kolkata] PHP Fatal error:  Call to undefined function Slug() in /home/homoclub/public_html/dev/application/models/Hotel_model.php on line 17
+[10-Nov-2017 16:04:25 Asia/Kolkata] PHP Fatal error:  Call to undefined function Slug() in /home/homoclub/public_html/dev/application/models/Hotel_model.php on line 17
+[10-Nov-2017 16:04:59 Asia/Kolkata] PHP Fatal error:  Call to undefined function Slug() in /home/homoclub/public_html/dev/application/models/Hotel_model.php on line 17
+[11-Nov-2017 13:40:02 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ';' in /home/homoclub/public_html/dev/application/controllers/bo/Service.php on line 54
+[11-Nov-2017 13:40:05 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ';' in /home/homoclub/public_html/dev/application/controllers/bo/Service.php on line 54
+[11-Nov-2017 13:45:45 Asia/Kolkata] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/homoclub/public_html/dev/application/controllers/bo/Service.php on line 37
+[11-Nov-2017 13:45:53 Asia/Kolkata] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/homoclub/public_html/dev/application/controllers/bo/Service.php on line 37
+[11-Nov-2017 13:46:42 Asia/Kolkata] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/homoclub/public_html/dev/application/controllers/bo/Service.php on line 37
+[11-Nov-2017 13:47:10 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '{' in /home/homoclub/public_html/dev/application/controllers/bo/Service.php on line 38
+[17-Nov-2017 12:13:56 Asia/Kolkata] PHP Fatal error:  Call to a member function Dashboardlistpendingsalesperson() on null in /home/homoclub/public_html/dev/application/views/dashboard/index.php on line 192
+[22-Dec-2017 17:19:35 Asia/Kolkata] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/madehuge/public_html/portfolio/animesh/application/models/Event_model.php on line 87
+[01-Jan-2018 19:50:57 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::acceptRequest() in /home/madehuge/public_html/portfolio/animesh/application/models/Api_model.php on line 185
